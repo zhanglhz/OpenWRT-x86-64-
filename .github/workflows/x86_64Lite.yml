@@ -17,7 +17,7 @@ env:
   EXTERNAL_FILE: configs/LuciApp_Lite.config
   CONFIG_FILE: configs/x86_64.config
   SYS_CONF_SH: configure.sh
-  PACKS: package.sh
+  PACKS: packages.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
