@@ -42,7 +42,7 @@ jobs:
         event-type: Source Code Update
 
     - name: Delete workflow runs
-      uses: bigbugcc/delete-workflow-runs@main
+      uses: zhanglhz/delete-workflow-runs@main
       with:
         keep_minimum_runs: 1
 
