@@ -22,7 +22,7 @@ jobs:
       uses: bigbugcc/ActionBot@main
 
     - name: Delete workflow runs
-      uses: zhanglhz/delete-workflow-runs@main
+      uses: bigbugcc/delete-workflow-runs@main
       with:
         keep_minimum_runs: 1
 
